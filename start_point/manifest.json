@@ -9,7 +9,7 @@
 
   "image_name": "cyberdojofoundation/vhdl_assert",
 
-  "filename_extension" : ".vhdl",
+  "filename_extension": ".vhdl",
 
   "runner_choice": "stateless"
 }
