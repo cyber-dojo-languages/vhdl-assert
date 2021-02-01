@@ -1,4 +1,4 @@
-FROM  cyberdojofoundation/vhdl:34f459e
+FROM  cyberdojofoundation/vhdl:9f8f12d
 LABEL maintainer=pablo.mansanet@bluefruit.co.uk
 
 COPY red_amber_green.rb /usr/local/bin
