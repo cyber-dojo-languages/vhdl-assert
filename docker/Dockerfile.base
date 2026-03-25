@@ -1,4 +1,2 @@
-FROM  cyberdojofoundation/vhdl:e36f295
+FROM ghcr.io/cyber-dojo-languages/vhdl:d6fb678
 LABEL maintainer=pablo.mansanet@bluefruit.co.uk
-
-COPY red_amber_green.rb /usr/local/bin
