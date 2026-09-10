@@ -1,2 +1,2 @@
-FROM ghcr.io/cyber-dojo-languages/vhdl:d6fb678
+FROM ghcr.io/cyber-dojo-languages/vhdl:eeffdca
 LABEL maintainer=pablo.mansanet@bluefruit.co.uk
