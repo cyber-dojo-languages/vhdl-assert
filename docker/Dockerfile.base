@@ -1,2 +1,5 @@
-FROM ghcr.io/cyber-dojo-languages/vhdl:eeffdca
+FROM ghcr.io/cyber-dojo-languages/vhdl:e1d7286
 LABEL maintainer=pablo.mansanet@bluefruit.co.uk
+
+COPY install.sh .
+RUN ./install.sh && rm ./install.sh
